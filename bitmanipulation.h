@@ -1,3 +1,5 @@
 class BitManipulation{
-public:
+
+  public:
+  int count_one(int);
 };
